@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\etorres\\Desktop\\Repositories\\DDD - Clean Architecture\\ClientManagementSystem\\Domain\\CMS.ApplicationCore\\CMS.ApplicationCore.csproj",
+      "projectUniqueName": "C:\\Users\\etorres\\Desktop\\Repositories\\DDD - Clean Architecture\\ClientManagementSystem\\src\\CMS.ApplicationCore\\CMS.ApplicationCore.csproj",
       "projectName": "CMS.ApplicationCore",
-      "projectPath": "C:\\Users\\etorres\\Desktop\\Repositories\\DDD - Clean Architecture\\ClientManagementSystem\\Domain\\CMS.ApplicationCore\\CMS.ApplicationCore.csproj",
+      "projectPath": "C:\\Users\\etorres\\Desktop\\Repositories\\DDD - Clean Architecture\\ClientManagementSystem\\src\\CMS.ApplicationCore\\CMS.ApplicationCore.csproj",
       "packagesPath": "C:\\Users\\etorres\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\etorres\\Desktop\\Repositories\\DDD - Clean Architecture\\ClientManagementSystem\\Domain\\CMS.ApplicationCore\\obj\\",
+      "outputPath": "C:\\Users\\etorres\\Desktop\\Repositories\\DDD - Clean Architecture\\ClientManagementSystem\\src\\CMS.ApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
