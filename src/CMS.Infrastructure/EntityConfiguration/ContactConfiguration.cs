@@ -8,7 +8,6 @@ namespace CMS.Infrastructure.EntityConfiguration
     {
         public void Configure(EntityTypeBuilder<Contact> builder)
         {
-            
             builder.Property(e => e.Name)
                 .HasColumnType("VARCHAR(200)")
                 .IsRequired();
